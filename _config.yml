@@ -1,0 +1,11 @@
+# basic options
+title: awesome-title
+author: Digvijay Naruka
+email: your-email@domain.com
+description: A wonderful test site
+twitter_username: jekyllrb
+github_username:  digvijayad
+
+# Build settings
+markdown: kramdown
+theme: minima
